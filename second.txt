@@ -1,1 +1,3 @@
 Git is distributed version control system.
+
+GitHub is web hosted service.
